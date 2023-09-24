@@ -1,8 +1,9 @@
-package com.example.architecturecomponents
+package com.example.architecturecomponents.ui.main
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.databinding.DataBindingUtil
+import com.example.architecturecomponents.R
 import com.example.architecturecomponents.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
